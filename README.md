@@ -25,7 +25,7 @@ You will create a Postman collection and create a REST test within the project. 
     - Include your environment settings
     - Copy to clipboard 
 - Submit the Url to canvas with the REPO CSC_3916
-- Note: All tests should be testing against your Heroku or Rendor endpoint
+- Note: All tests should be testing against your Heroku or Render endpoint
 
 ## Rubic
 - -5 - Not deployed to Heroku or Rendor
